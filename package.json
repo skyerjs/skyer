@@ -1,6 +1,6 @@
 {
   "name": "skyer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MVC framework base koa",
   "main": "lib/Skyer.js",
   "repository": {
@@ -17,6 +17,7 @@
     "mvc"
   ],
   "author": "jerrywu <perzy_wu@163.com>",
+  "license": "MIT",
   "engines": {
     "node": ">=4.0.0"
   },
