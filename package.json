@@ -1,16 +1,28 @@
 {
   "name": "skyer",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "MVC framework base koa",
-  "main": "index.js",
+  "main": "lib/Skyer.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:skyerjs/skyer.git"
   },
+  "keywords": [
+    "web",
+    "app",
+    "http",
+    "application",
+    "framework",
+    "component",
+    "mvc"
+  ],
   "author": "jerrywu <perzy_wu@163.com>",
   "engines": {
     "node": ">=4.0.0"
   },
+  "files": [
+    "lib"
+  ],
   "dependencies": {
     "debug": "2.2.0",
     "fsexists": "^1.0.0",
