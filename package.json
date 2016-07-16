@@ -29,7 +29,6 @@
     "koa-ratelimit": "2.1.0",
     "koa-response-time": "1.0.2",
     "koa-static-cache": "3.1.2",
-    "koa-swig": "2.1.0",
     "koa-router": "^5.4.0",
     "lodash": "3.10.1",
     "copy-to": "^2.0.1",
