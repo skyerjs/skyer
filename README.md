@@ -33,7 +33,7 @@ Hello skyer!
 ## Example
 [skyer-example](https://github.com/skyerjs/skyer-example)
 
-[![image](https://github.com/skyerjs/skyer/blob/master/example/app.png)]
+![image](https://github.com/skyerjs/skyer/blob/master/example/app.png)
 
 ## Licences
 
