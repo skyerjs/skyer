@@ -8,7 +8,9 @@
 
 [![NPM](https://nodei.co/npm/skyer.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/skyer/)
 
-npm install --save skyer
+```bash
+$ npm install --save skyer
+```
 
 ## Usage
 
