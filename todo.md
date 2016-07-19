@@ -1,5 +1,3 @@
 # todo
 
 * test
-* logger
-* component
