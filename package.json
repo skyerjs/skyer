@@ -1,6 +1,6 @@
 {
   "name": "skyer",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "MVC framework base koa",
   "main": "lib/Skyer.js",
   "repository": {
