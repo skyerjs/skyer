@@ -1,6 +1,6 @@
 {
   "name": "skyer",
-  "version": "1.0.5",
+  "version": "1.2.0",
   "description": "MVC framework base koa",
   "main": "lib/Skyer.js",
   "repository": {
@@ -50,7 +50,8 @@
     "winston": "^2.2.0",
     "winston-daily-rotate-file": "^1.1.5",
     "lodash": "^4.13.1",
-    "moment": "^2.14.1"
+    "moment": "^2.14.1",
+    "koa-swig": "^2.2.0"
   },
   "devDependencies": {
     "istanbul": "~0.3.17",
