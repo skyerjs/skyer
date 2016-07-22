@@ -51,7 +51,8 @@
     "winston-daily-rotate-file": "^1.1.5",
     "lodash": "^4.13.1",
     "moment": "^2.14.1",
-    "koa-swig": "^2.2.0"
+    "koa-swig": "^2.2.0",
+    "koa-ejs": "^3.0.0"
   },
   "devDependencies": {
     "istanbul": "~0.3.17",
